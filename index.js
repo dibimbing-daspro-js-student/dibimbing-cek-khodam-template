@@ -24,7 +24,7 @@ let userInputPassword = prompt("Masukkan Password:");
 
 
 // Kamu bisa mengerjakan soal no 3 dibawah sini 
-let userInputBirthMonth = prompt("Masukkan hari apa kamu lahir!");
+let userInputBirthDay = prompt("Masukkan hari apa kamu lahir!");
 
 
 
